@@ -1,8 +1,8 @@
 #include<iostream>
 #include<cstdio>
 using namespace std;
-#define maxn 1005
-#define maxm 30100
+#define maxn 1000
+#define maxm 10000
 #define Max 1<<30
 int t[maxn],s[maxn],dist[maxn];
 int tot;
